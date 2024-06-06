@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Free Consultation",
+    "description": "New clients receive an obligation-free consultation for all services.",
+    "image": {
+      "url": "images/features/free-consultation.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Expert Resurfacing",
+    "description": "Specializing in resurfacing bathtubs, toilets, and showers/bathrooms with top-quality materials.",
+    "image": {
+      "url": "images/features/expert-resurfacing.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Professional Electrical Work",
+    "description": "Certified professionals handling all your electrical needs, from wiring to installations.",
+    "image": {
+      "url": "images/features/professional-electrical-work.png",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
