@@ -1,103 +1,81 @@
-# Jekyll Serif Theme
+# Surface Remodel Website
 
-Serif is a modern business theme for Jekyll. It contains multiple content types for a typical brochure/marketing website. The theme is fully responsive, blazing fast and artfully illustrated.
+Welcome to the Surface Remodel website repository. This project is designed to create a comprehensive and professional online presence for the Surface Remodel business, which specializes in resurfacing bathtubs, toilets, and showers/bathrooms, as well as providing expert electrical services.
 
-[Live Demo](https://jekyll-serif.netlify.app/) |
-[Zerostatic Themes](https://www.zerostatic.io)
+## Table of Contents
 
-<a href="https://www.buymeacoffee.com/zerostatic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+- [Overview](#overview)
+- [Generated Content](#generated-content)
+- [Logo and Icons](#logo-and-icons)
+- [Team Profiles](#team-profiles)
+- [Services Pages](#services-pages)
+- [Configuration Files](#configuration-files)
+- [Credits](#credits)
 
-![Jekyll Serif Theme screenshot](https://www.zerostatic.io/theme/jekyll-serif/jekyll-serif-screenshot.png)
+## Overview
 
-### Theme features
+This repository includes the following:
 
-- Jekyll 4.2+
-- Netlify & Github Pages ready
-- Services (Collection)
-- Team (Collection)
-- Features (Data)
-- SCSS
-- 100% Responsive design, animated hamburger and mobile slide in menu
-- Bootstrap 4.6 - _Only the bootstrap grid and utilites are imported by default. If you want to use more of the Boostrap library you can uncomment the `@import` in `style.scss`_
-- 100/100 Google Lighthouse speed score
-- 100/100 Google Lighthouse seo score
-- 100/100 Google Lighthouse accessibility score
-- 100/100 Google Lighthouse best practices score
-- Under 50KB without images or 80KB with images and illustrations ⚡
-- Under 20KB without Google fonts ⚡⚡⚡
-- Robust example content included
-- Royalty free illustrations included
+1. **Jekyll Configuration**: Customizing the Jekyll configuration to match the business needs.
+2. **Logo and Icons**: Creating a professional logo and icons for features.
+3. **Team Profiles**: Detailing team members and their roles.
+4. **Services Pages**: Providing detailed descriptions of the services offered.
+5. **Markdown Files**: Setting up necessary markdown files for different sections of the website.
 
-## Installation
+## Generated Content
 
-### Installing Ruby & Jekyll
+The content in this repository was generated using the GPT-4 model by OpenAI. The model was used to create text content for various sections of the website, including:
 
-If this is your first time using Jekyll, please follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) and make sure your local environment (including Ruby) is setup correctly.
+- Team member profiles
+- Service descriptions
+- About and Contact pages
 
-### Installing Theme
+## Logo and Icons
 
-Download or clone the theme.
+The logos and icons were created using the DALL-E model by OpenAI. The icons were designed to visually represent the key features of the business:
 
-To run the theme locally, navigate to the theme directory and run:
+1. **Free Consultation**: An icon representing consultation services.
+2. **Expert Resurfacing**: An icon depicting resurfacing services.
+3. **Professional Electrical Work**: An icon symbolizing electrical services.
 
-```
-bundle install
-```
+## Team Profiles
 
-To start the Jekyll local development server.
+Detailed profiles for each team member were created to highlight their roles and contributions to Surface Remodel:
 
-```
-bundle exec jekyll serve
-```
+1. **Getulio Bastos**: Business Owner
+2. **Brian Bastos**: Manager
+3. **Roseanne Bastos**: Executive Assistant
 
-To build the theme.
+## Services Pages
 
-```
-bundle exec jekyll build
-```
+Each service offered by Surface Remodel has a dedicated markdown file with detailed descriptions:
 
-## Deployment
+1. **Bathtub Resurfacing**
+2. **Toilet Resurfacing**
+3. **Shower/Bathroom Resurfacing**
+4. **Electrical Wiring and Rewiring**
+5. **Installation of Outlets, Switches, and Light Fixtures**
+6. **Troubleshooting Electrical Issues**
 
-### Netlify
+## Configuration Files
 
-Use Netlify to deploy this theme. This theme contains a valid and tested `netlify.toml` - Feel free to use the 1-click deploy below.
+The Jekyll `_config.yml` and other necessary configuration files were customized to ensure the website aligns with the business branding and functionality:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/zerostaticthemes/jekyll-serif-theme)
+- **_config.yml**: Updated for Surface Remodel.
+- **contact.yml**: Custom contact information.
+- **features.json**: Details of key features.
+- **social.json**: Links to social media accounts.
+- **team.md**: Information about the team.
+- **services.md**: Description of services offered.
+- **about.md**: Information about the business.
+- **contact.md**: Contact details and request for quotes.
 
-### Github Pages
+## Credits
 
-This theme has been tested to work with Github Pages (and Github Project Pages). When using Github Pages you will need to update the `baseurl` in the `_config.yml` otherwise all the css, images and paths will be broken.
+This project was built using OpenAI's GPT-4 and DALL-E models. The text content and visual assets were generated with the assistance of these advanced AI tools to create a professional and comprehensive website for Surface Remodel.
 
-For example the site https://zerostaticthemes.github.io/jekyll-serif-theme would have `baseurl: "/jekyll-serif-theme/"`
+For more information or questions, please contact [getuliobastos1@gmail.com](mailto:getuliobastos1@gmail.com).
 
-## Extras
+---
 
-### License
-
-- You cannot create ports of this theme
-- You cannot re-sell this theme
-
-### Credits
-
-- Beautiful royalty free Illustrations by Icons8 - https://icons8.com/illustrations/style--pixeltrue
-- Stock images by Unsplash - https://unsplash.com/
-- Feature icons by Noun Project - https://thenounproject.com/
-
-## Support My Work
-
-I've been building open source themes for all the main static site generators for over 4 years now. My premium themes allow me to continue to allocate time to maintain, improve and build new open source themes.
-
-1. Leave a star ⭐🙏🏻
-2. Make a contribution to this theme, add a feature, fix a bug, nothing is to small 
-2. Mention this theme on twitter [@zerostaticio](https://twitter.com/zerostaticio) 📢
-3. Purchase a premium theme 🔥
-
-### All Jekyll Themes by Zerostatic
-
-- [Jekyll Serif (Open Source)](https://www.zerostatic.io/theme/jekyll-serif/)
-- [Jekyll Atlantic (Open Source)](https://www.zerostatic.io/theme/jekyll-atlantic/)
-- [Jekyll Advance (Premium)](https://www.zerostatic.io/theme/jekyll-advance/)
-- [Jekyll Origin (Premium)](https://www.zerostatic.io/theme/jekyll-origin/)
-- [Jekyll Curate (Premium)](https://www.zerostatic.io/theme/jekyll-curate/)
-
-🇦🇺 **Made in Australia** by Robert Austin
+Thank you for visiting the Surface Remodel website repository!
