@@ -1,55 +1,40 @@
 ---
-title: Contact
+title: Get a Quote
 layout: contact
-description: Contact
+description: Get in touch with us for all your flooring and resurfacing needs. Contact us for a free quote or any inquiries.
 ---
 
-# Get in Touch with Surface Remodel
+# Contact Us
 
-We are here to help with all your home improvement needs. Whether you're looking to resurface your bathtub, update your bathroom, or need expert electrical services, our team is ready to provide you with a free, no-obligation quote. Contact us today to get started!
+Thank you for considering We Wire You for your resurfacing needs. We are here to provide you with the best service and answer any questions you may have. Reach out to us today for a free quote or any inquiries.
 
-## Contact Information
+We look forward to helping you with your next project!
 
-- **Email**: [getuliobastos1@gmail.com](mailto:getuliobastos1@gmail.com)
-- **Phone**: [561-846-0938](tel:561-846-0938)
-
-## Business Hours
-
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:00am - 4:00pm |
-| Sunday    | Closed          |
-
-## Request a Quote
-
-To request a quote, please provide us with some details about your project. You can reach us via email or phone, or fill out the contact form below:
-
----
-
-### Contact Form
-
-<form action="https://formspree.io/f/{your-form-id}" method="POST">
-    <label>
-        Your Name:
-        <input type="text" name="name" required>
-    </label>
-    <label>
-        Your Email:
-        <input type="email" name="_replyto" required>
-    </label>
-    <label>
-        Your Phone:
-        <input type="tel" name="phone" required>
-    </label>
-    <label>
-        Project Details:
-        <textarea name="message" rows="4" required></textarea>
-    </label>
-    <button type="submit">Send</button>
-</form>
-
-We look forward to helping you with your next home improvement project!
+<div class="contact-container">
+  <div class="contact-text">
+    <p>Our team is ready to assist you with any electrical services you need. Fill out the form below or give us a call, and we'll get back to you as soon as possible.</p>
+  </div>
+  <div class="contact-form">
+    <form action="https://formspree.io/f/{your-form-id}" method="POST">
+      <div class="form-group">
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" required>
+      </div>
+      <div class="form-group">
+        <label for="phone">Phone</label>
+        <input type="text" id="phone" name="phone" required>
+      </div>
+      <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" required>
+      </div>
+      <div class="form-group">
+        <label for="message">Message</label>
+        <textarea id="message" name="message" rows="4" required></textarea>
+      </div>
+      <div class="form-group">
+        <button type="submit">Send</button>
+      </div>
+    </form>
+  </div>
+</div>
