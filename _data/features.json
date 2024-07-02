@@ -1,27 +1,27 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation-free consultation for all services.",
+    "title": "Vinyl Flooring Installation",
+    "description": "Transform your space with durable and stylish vinyl flooring expertly installed by our team.",
     "image": {
-      "url": "images/features/free-consultation.png",
+      "url": "images/features/vinyl_flooring_installation.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Expert Resurfacing",
-    "description": "Specializing in resurfacing bathtubs, toilets, and showers/bathrooms with top-quality materials.",
+    "title": "Faux Quartz Countertop Finish",
+    "description": "Get the look of luxurious quartz countertops without the high cost. Our faux finishes are stunning and affordable.",
     "image": {
-      "url": "images/features/expert-resurfacing.png",
+      "url": "images/features/faux_quartz_countertop.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Professional Electrical Work",
-    "description": "Certified professionals handling all your electrical needs, from wiring to installations.",
+    "title": "Bathroom Wall Tile Painting",
+    "description": "Refresh your bathroom with beautifully painted wall tiles, done with precision and care.",
     "image": {
-      "url": "images/features/professional-electrical-work.png",
+      "url": "images/features/bathroom_tile_painting.svg",
       "width": 80,
       "height": 80
     }

@@ -1,4 +1,4 @@
-baseurl: 'https://surfaceremodeling.net/'
+baseurl: '/' # 'https://surfaceremodeling.net/'
 permalink: pretty
 title: 'Surface Remodel'
 

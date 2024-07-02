@@ -57,18 +57,9 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "{{ page.title }}",
-    "url": "{{ page.url | absolute_url }}",
-    {% if page.description %}
-    "description": "{{ page.description }}",
-    {% endif %}
-    {% if page.intro_image %}
-    "image": "{{ page.intro_image | absolute_url }}",
-    {% elsif page.image %}
-    "image": "{{ page.image | absolute_url }}",
-    {% endif %}
-    "publisher": {
+    "@type": "Service",
+    "serviceType": "{{ page.title }}",
+    "provider": {
       "@type": "Organization",
       "name": "{{ site.title }}",
       "url": "{{ site.url }}",
@@ -76,7 +67,25 @@
         "@type": "ImageObject",
         "url": "{{ site.url }}/images/logo.svg"
       }
-    }
+    },
+    "areaServed": {
+      "@type": "Place",
+      "name": "Palm Beach County",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Palm Beach County",
+        "addressRegion": "FL",
+        "addressCountry": "US"
+      }
+    },
+    "description": "{{ page.description }}",
+    {% if page.intro_image %}
+    "image": "{{ page.intro_image | absolute_url }}",
+    {% elsif page.image %}
+    "image": "{{ page.image | absolute_url }}",
+    {% endif %}
+    "name": "{{ page.title }}",
+    "url": "{{ page.url | absolute_url }}"
   }
   </script>
 
