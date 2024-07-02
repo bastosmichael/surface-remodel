@@ -1,15 +1,5 @@
 [
   {
-    "name": "Github",
-    "link": "https://github.com/SurfaceRemodel",
-    "image": "images/social/github.svg"
-  },
-  {
-    "name": "Twitter",
-    "link": "https://twitter.com/SurfaceRemodel",
-    "image": "images/social/twitter.svg"
-  },
-  {
     "name": "Facebook",
     "link": "https://facebook.com/SurfaceRemodel",
     "image": "images/social/facebook.svg"
@@ -18,15 +8,5 @@
     "name": "Email",
     "link": "mailto:getuliobastos1@gmail.com",
     "image": "images/social/email.svg"
-  },
-  {
-    "name": "Instagram",
-    "link": "https://instagram.com/SurfaceRemodel",
-    "image": "images/social/instagram.svg"
-  },
-  {
-    "name": "Discord",
-    "link": "https://discord.com/invite/SurfaceRemodel",
-    "image": "images/social/discord.svg"
   }
 ]
