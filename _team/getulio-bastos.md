@@ -1,9 +1,9 @@
 ---
 title: "Getulio Bastos"
 date: 2024-06-06T10:47:58+10:00
-image: "images/team/getulio_bastos.jpg"
+image: "images/team/getulio-bastos.jpg"
 jobtitle: "Business Owner"
-linkedinurl: ""
+# linkedinurl: ""
 weight: 1
 ---
 

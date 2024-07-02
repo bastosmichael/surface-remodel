@@ -7,7 +7,7 @@ bodyClass: page-about
 
 Welcome to Surface Remodel, your trusted partner for home improvement projects. As a family-owned business with decades of experience, we specialize in vinyl flooring installation, faux quartz countertop finishes, kitchen cabinet painting, and bathroom wall tile painting. Our commitment to quality and customer satisfaction is at the core of everything we do.
 
-![Surface Remodel](/images/illustrations/correcting.webp)
+![Surface Remodel](/images/features/about.webp)
 
 # Our Mission
 
@@ -15,11 +15,11 @@ At Surface Remodel, our mission is to deliver top-quality services that enhance 
 
 ## Our Services
 
-Learn more about the [services](services) we offer and how we can help transform your home.
+Learn more about the [services](/services) we offer and how we can help transform your home.
 
 ## Meet Our Team
 
-Discover more about the [team](team) behind Surface Remodel and their commitment to excellence.
+Discover more about the [team](/team) behind Surface Remodel and their commitment to excellence.
 
 ---
 

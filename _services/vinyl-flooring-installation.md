@@ -3,13 +3,11 @@ title: "Vinyl Flooring Installation"
 date: 2024-06-06T12:33:46+10:00
 weight: 1
 description: "Professional installation of durable and stylish vinyl flooring to enhance the beauty of your home."
-intro_image: "/images/services/vinyl_flooring.jpg"
+intro_image: "/images/services/vinyl-flooring-installation.png"
 ---
 
 We provide professional installation of durable and stylish vinyl flooring.
-
-![Vinyl Flooring Installation](/images/services/vinyl_flooring.jpg)
-
+![Vinyl Flooring Installation](/images/services/vinyl-flooring-installation2.jpg)
 # Objectives
 
 Enhance the beauty and functionality of your home with expertly installed vinyl flooring.
@@ -37,7 +35,7 @@ We ensure the flooring is installed correctly and to the highest standards.
 ### Clean-Up
 
 We clean up the work area, leaving your space ready to enjoy.
-
+![Vinyl Flooring Installation](/images/services/vinyl-flooring-installation.png)
 ## Benefits
 
 - **Enhanced Beauty**: Stylish and attractive flooring.

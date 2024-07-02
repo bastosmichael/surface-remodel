@@ -2,7 +2,7 @@
 title: Surface Remodel
 layout: home
 description: Surface Remodel specializes in expert vinyl flooring installation. We are a family-owned business with decades of experience, dedicated to providing top-quality remodeling services.
-intro_image: "images/illustrations/remodel.webp"
+intro_image: "images/features/vinyl-flooring.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true

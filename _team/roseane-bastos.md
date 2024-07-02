@@ -1,9 +1,9 @@
 ---
 title: "Roseanne Bastos"
 date: 2024-06-06T10:47:58+10:00
-image: "images/team/roseanne_bastos.jpg"
+image: "images/team/roseane-bastos.jpg"
 jobtitle: "Executive Assistant"
-linkedinurl: ""
+# linkedinurl: ""
 weight: 3
 ---
 
