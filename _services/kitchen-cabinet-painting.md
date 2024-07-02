@@ -3,13 +3,11 @@ title: "Kitchen Cabinet Painting"
 date: 2024-06-06T12:33:46+10:00
 weight: 3
 description: "Professional painting services to give your kitchen cabinets a fresh, new look."
-intro_image: "/images/services/kitchen_cabinet_painting.jpg"
+intro_image: "/images/services/kitchen-cabinet-painting.jpg"
 ---
 
 We provide professional kitchen cabinet painting services.
-
-![Kitchen Cabinet Painting](/images/services/kitchen_cabinet_painting.jpg)
-
+![Kitchen Cabinet Painting](/images/services/kitchen-cabinet-painting.jpg)
 # Objectives
 
 Give your kitchen cabinets a fresh, new look with our expert painting services.

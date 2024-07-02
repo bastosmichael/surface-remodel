@@ -3,13 +3,11 @@ title: "Tile Regrouting"
 date: 2024-06-06T12:33:46+10:00
 weight: 10
 description: "Expert tile regrouting services to refresh and restore your bathroom tiles."
-intro_image: "/images/services/tile_regrouting.jpg"
+intro_image: "/images/services/tile-regrouting.jpg"
 ---
 
 We provide expert tile regrouting services to refresh and restore your bathroom tiles.
-
-![Tile Regrouting](/images/services/tile_regrouting.jpg)
-
+![Tile Regrouting](/images/services/tile-regrouting.jpg)
 # Objectives
 
 Refresh and restore your bathroom tiles with professional regrouting services.

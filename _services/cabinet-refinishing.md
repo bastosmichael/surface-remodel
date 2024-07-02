@@ -3,12 +3,12 @@ title: "Cabinet Refinishing"
 date: 2024-06-06T12:33:46+10:00
 weight: 9
 description: "Professional cabinet refinishing services to restore and enhance the beauty of your kitchen cabinets."
-intro_image: "/images/services/cabinet_refinishing.jpg"
+intro_image: "/images/services/cabinet-refinishing.jpg"
 ---
 
 We provide professional cabinet refinishing services to restore and enhance the beauty of your kitchen cabinets.
 
-![Cabinet Refinishing](/images/services/cabinet_refinishing.jpg)
+![Cabinet Refinishing](/images/services/cabinet-refinishing.jpg)
 
 # Objectives
 

@@ -3,13 +3,11 @@ title: "Quartz Overlay Countertops"
 date: 2024-06-06T12:33:46+10:00
 weight: 8
 description: "Affordable quartz overlay countertops to give your kitchen or bathroom a sleek, modern look."
-intro_image: "/images/services/quartz_overlay.jpg"
+intro_image: "/images/services/quartz-overlay-countertops.jpg"
 ---
 
 We provide affordable quartz overlay countertops to give your kitchen or bathroom a sleek, modern look.
-
-![Quartz Overlay Countertops](/images/services/quartz_overlay.jpg)
-
+![Quartz Overlay Countertops](/images/services/quartz-overlay-countertops.jpg)
 # Objectives
 
 Upgrade your countertops with sleek and modern quartz overlays.

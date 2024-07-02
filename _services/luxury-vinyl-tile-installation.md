@@ -3,12 +3,12 @@ title: "Luxury Vinyl Tile (LVT) Installation"
 date: 2024-06-06T12:33:46+10:00
 weight: 7
 description: "Expert installation of luxury vinyl tile (LVT) to provide a high-end look and durability."
-intro_image: "/images/services/lvt_installation.jpg"
+intro_image: "/images/services/luxury-vinyl-tile-installation.jpg"
 ---
 
 We provide expert installation of luxury vinyl tile (LVT) to provide a high-end look and durability.
 
-![Luxury Vinyl Tile (LVT) Installation](/images/services/lvt_installation.jpg)
+![Luxury Vinyl Tile (LVT) Installation](/images/services/luxury-vinyl-tile-installation.jpg)
 
 # Objectives
 

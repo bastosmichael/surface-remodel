@@ -3,13 +3,11 @@ title: "Bathroom Wall Tile Painting"
 date: 2024-06-06T12:33:46+10:00
 weight: 4
 description: "Expert painting services to refresh your bathroom wall tiles with a new look."
-intro_image: "/images/services/bathroom_tile_painting.jpg"
+intro_image: "/images/services/bathroom-wall-tile-painting.jpg"
 ---
 
 We provide expert bathroom wall tile painting services.
-
-![Bathroom Wall Tile Painting](/images/services/bathroom_tile_painting.jpg)
-
+![Bathroom Wall Tile Painting](/images/services/bathroom-wall-tile-painting.jpg)
 # Objectives
 
 Refresh your bathroom with beautifully painted wall tiles.
