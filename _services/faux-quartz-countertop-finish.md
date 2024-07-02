@@ -7,9 +7,7 @@ intro_image: "/images/services/faux_quartz.jpg"
 ---
 
 We provide affordable and stunning faux quartz countertop finishes.
-
-![Faux Quartz Countertop Finish](/images/services/faux_quartz.jpg)
-
+![Faux Quartz Countertop Finish](/images/services/faux-quartz-countertop-finish.jpg)
 # Objectives
 
 Elevate the look of your kitchen or bathroom with beautiful faux quartz finishes.
